@@ -1,1 +1,1 @@
-# vacation-break.github.io
+[Check it out](vacation-break.github.io)
